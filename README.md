@@ -8,7 +8,7 @@
 </br>
 </br>
 
-   ![My Image](x1.jpg)
+   
 
 
 ### FOMO 😋
